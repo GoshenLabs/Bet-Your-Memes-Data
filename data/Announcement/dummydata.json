@@ -1,0 +1,32 @@
+{
+    "slides": [
+      {
+        "text": "First slide",
+        "label": "First slide label",
+        "description": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+        "imageUrl": "https://via.placeholder.com/800x400?text=First+Slide",
+        "autoplayInterval": 3000,
+        "buttonText": "Discover More",
+        "buttonUrl": "/discover-more-third"
+      },
+      {
+        "text": "Second slide",
+        "label": "Second slide label",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "imageUrl": "https://via.placeholder.com/800x400?text=Second+Slide",
+        "autoplayInterval": 4000,
+        "buttonText": "Discover More",
+        "buttonUrl": "/discover-more-third"
+      },
+      {
+        "text": "Third slide",
+        "label": "Third slide label",
+        "description": "Praesent commodo cursus magna, vel scelerisque nisl consectetur.",
+        "imageUrl": "https://via.placeholder.com/800x400?text=Third+Slide",
+        "autoplayInterval": 5000,
+        "buttonText": "Discover More",
+        "buttonUrl": "/discover-more-third"
+      }
+    ]
+  }
+  
